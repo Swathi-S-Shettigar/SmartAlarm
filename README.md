@@ -35,6 +35,11 @@ A simple React.js project that displays the current time across all countries wo
 
 ---
 
+## 🌐 Live Demo
+[**https://swathi-s-shettigar.github.io/SmartAlarm/**](https://swathi-s-shettigar.github.io/SmartAlarm/)
+
+---
+
 ## ⚙️ Installation & Setup
 
 ### Clone the repository
@@ -51,5 +56,4 @@ npm run dev
 Open in browser:
 http://localhost:5173
 
-## 🌐 Live Demo
-**[https://swathi-s-shettigar.github.io/SmartAlarm/](https://swathi-s-shettigar.github.io/SmartAlarm/)**
+
