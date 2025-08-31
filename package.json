@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Swathi-S-Shettigar.github.io/Smart_Alarm/",
+  "homepage": "https://Swathi-S-Shettigar.github.io/SmartAlarm/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
